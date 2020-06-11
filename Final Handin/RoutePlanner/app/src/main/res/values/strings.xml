@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Route Planner</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_Routes">Routes</string>
+    <string name="nav_my_routes">My Routes</string>
+    <string name="welcome">Welcome to my Route Planner app. This app will help you plan your next trips. Have FUN!</string>
+    <string name="favorite">Add to favorite</string>
+    <string name="favorites">Favorites</string>
+    <string name="these_are_my_favorite_routes">These are my favorite routes</string>
+</resources>

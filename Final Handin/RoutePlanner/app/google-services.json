@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "562481982275",
+    "firebase_url": "https://andhandin-6e817.firebaseio.com",
+    "project_id": "andhandin-6e817",
+    "storage_bucket": "andhandin-6e817.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:562481982275:android:fb17c668fa795d113bddf6",
+        "android_client_info": {
+          "package_name": "com.example.routeplanner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "562481982275-j8h68u2askk7gocbn23glajntv658cc1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSnjKjCw6hoCvmNJ7j2CFESwsXBNNPmrY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "562481982275-j8h68u2askk7gocbn23glajntv658cc1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
